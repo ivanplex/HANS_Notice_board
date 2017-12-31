@@ -13,6 +13,7 @@ body:before
     left: -50%;
     z-index: -1;
     background: url("3.png") 0 0 repeat;
+    background-size: 380px 500px;
     -webkit-transform: rotate(270deg);
     -moz-transform: rotate(270deg);
     -ms-transform: rotate(270deg);
