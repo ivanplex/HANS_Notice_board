@@ -1,9 +1,9 @@
-/*body {
-    background: url("/home/ivan/Hack/menu_wall/3.png") 0 0 no-repeat;
+body {
+    background: url("1.png") 0 0 no-repeat;
     background-size: contain;
-}*/
+}
 
-body:before 
+/*body:before 
 {
     content: "";
     position: absolute;
@@ -19,7 +19,7 @@ body:before
     -ms-transform: rotate(270deg);
     -o-transform: rotate(270deg);
     transform: rotate(270deg);
-}
+}*/
 
 #poster 
 {
