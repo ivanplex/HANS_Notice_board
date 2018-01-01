@@ -1,7 +1,7 @@
 var posters = [ 
-	"/src/A_side.png", 
-	"/src/B_side.png", 
-	"/src/C_side.png"
+	"/proj/hans/src/A_side.png", 
+	"/proj/hans/src/B_side.png", 
+	"/proj/hans/src/C_side.png"
 ];
 
 var index = 1;
