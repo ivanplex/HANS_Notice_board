@@ -1,3 +1,8 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
 .single-image {
 	height: 100%;
 	width: 100%;
