@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<meta http-equiv="cache-control" content="no-cache"/>
 		<script type="text/javascript" src="update.js"></script>
 		<link rel="stylesheet" type="text/css" href="single-image.css">
 	</head>

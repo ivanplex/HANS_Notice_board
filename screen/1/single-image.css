@@ -1,8 +1,6 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	background: url("/proj/hans/src/bg_horizontal.png") 0 0 no-repeat;
-	background-size: contain;
 }
 
 .single-image {
@@ -10,5 +8,6 @@ body {
 	width: 100%;
 	border: 0px;
 
+	background-size: contain;
     display: block;
 }
