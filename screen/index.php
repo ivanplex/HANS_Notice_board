@@ -6,5 +6,7 @@
 
 	<body>
 		<div class="single-image"></div>
+		<div class="gallery"></div>
+		<div class="message-board"></div>
 	</body>
 </html>

@@ -1,6 +1,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
+	background: url("/proj/hans/src/bg_virtical.png") 0 0 no-repeat;
 }
 
 .single-image {
@@ -10,6 +11,5 @@ body {
 
     background-size: contain;
     display: block;
-
     /*background: url("/proj/hans/src/A_side.png") 0 0 no-repeat;*/
 }
