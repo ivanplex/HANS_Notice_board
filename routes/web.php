@@ -41,3 +41,13 @@ Route::post('setting/deactivate', 'ActivationController@dacetivate');
 Route::post('setting/upload', 'PictureController@upload');
 //Delete image
 Route::post('setting/delete', 'PictureController@delete');
+
+
+
+
+/*******************************************
+Temporary routing
+********************************************/
+Route::get('proj/hans/screen/{screen_id}', function(Request $request, $screen_id){
+	return redirect('screen/'.$screen_id);
+})->where('id', '[0-9]+');
