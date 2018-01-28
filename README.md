@@ -1,6 +1,14 @@
 # Hans Digital Signage
 
 
+<table style="width:100%">
+	<tr>
+		<td align="center">
+			<image src="https://ivanplex.github.io/HANS_Notice_board/images/store_front_1.jpg" height="400px"/>
+		</td>
+	</tr>
+</table>
+
 ## Hardware
 
 - 4x Raspberry Pi 3 Model B
@@ -13,7 +21,17 @@
 - 4x transparent Raspberry Pi model 3 cases
 - various wall mounting screws docs
 
-![Behind the screens](https://ivanplex.github.io/HANS_Notice_board/images/wires_1.jpg)
+
+<table style="width:100%">
+  <tr>
+    <th>
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_1.jpg" height="400px"/>
+    </th>
+    <th>
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_2.jpg" height="400px"/></th> 
+    <th>Age</th>
+  </tr>
+</table>
 
 
 ## Raspberry Pi setup
