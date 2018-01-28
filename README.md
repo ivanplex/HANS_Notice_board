@@ -45,10 +45,10 @@ https://blog.gordonturner.com/2016/12/29/raspberry-pi-full-screen-browser-raspbi
 <table style="width:100%">
   <tr>
     <th align="center">
-    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_setting.jpg" height="400px"/>
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_setting.png" height="400px"/>
     </th>
     <th align="center">
-    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_display.jpg" height="400px"/>
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_display.png" height="400px"/>
     </th> 
   </tr>
   <tr>
