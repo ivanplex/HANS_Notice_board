@@ -24,10 +24,10 @@
 
 <table style="width:100%">
   <tr>
-    <th>
+    <th align="center">
     	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_1.jpg" height="400px"/>
     </th>
-    <th>
+    <th align="center">
     	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_2.jpg" height="400px"/>
     </th> 
   </tr>
@@ -36,3 +36,27 @@
 
 ## Raspberry Pi setup
 https://blog.gordonturner.com/2016/12/29/raspberry-pi-full-screen-browser-raspbian-november-2016/
+
+
+## Software
+
+### Screenshots
+
+<table style="width:100%">
+  <tr>
+    <th align="center">
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_setting.jpg" height="400px"/>
+    </th>
+    <th align="center">
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_display.jpg" height="400px"/>
+    </th> 
+  </tr>
+  <tr>
+    <th align="center">
+    	Setting page for configuring display content
+    </th>
+    <th align="center">
+    	Display on page with content scaling
+    </th> 
+  </tr>
+</table>
