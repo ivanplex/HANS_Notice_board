@@ -12,10 +12,10 @@ Digital Signage system for displaying menu and other multimedia in front of a re
 
 ## Feature
 
-- Super affordable mothod to deploy multi-screen digital signage
-- Centralized management at any location
-- Graphical backend for content management 
-- Minimal on-location hardware requirement (no PC with robust graphics-card required)
+:star: Super affordable mothod to deploy multi-screen digital signage
+:star: Centralized management at any location
+:star: Graphical backend for content management 
+:star: Minimal on-location hardware requirement (no PC with robust graphics-card required)
 
 ## Hardware
 
