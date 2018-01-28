@@ -1,5 +1,6 @@
 # Hans Digital Signage
 
+Digital Signage system for displaying menu and other multimedia in front of a restaurant. The system is powered by a Raspberry Pi for each of the screen and a web backend. 
 
 <table style="width:100%">
 	<tr>
@@ -8,6 +9,13 @@
 		</td>
 	</tr>
 </table>
+
+## Feature
+
+- Super affordable mothod to deploy multi-screen digital signage
+- Centralized management at any location
+- Graphical backend for content management 
+- Minimal on-location hardware requirement (no PC with robust graphics-card required)
 
 ## Hardware
 
