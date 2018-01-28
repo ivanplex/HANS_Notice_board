@@ -28,8 +28,8 @@
     	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_1.jpg" height="400px"/>
     </th>
     <th>
-    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_2.jpg" height="400px"/></th> 
-    <th>Age</th>
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_2.jpg" height="400px"/>
+    </th> 
   </tr>
 </table>
 
