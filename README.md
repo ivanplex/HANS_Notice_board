@@ -13,7 +13,7 @@
 - 4x transparent Raspberry Pi model 3 cases
 - various wall mounting screws docs
 
-[Behind the screens](docs/images/wires_1.jpg)
+![Behind the screens](https://ivanplex.github.io/HANS_Notice_board/images/wires_1.jpg)
 
 
 ## Raspberry Pi setup
