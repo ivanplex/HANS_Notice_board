@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Hans Digital Signage
 
-You can use the [editor on GitHub](https://github.com/ivanplex/ivanplex.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Digital Signage system for displaying menu and other multimedia in front of a restaurant. The system is powered by a Raspberry Pi for each of the screen and a web backend. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table style="width:100%">
+	<tr>
+		<td align="center">
+			<image src="https://ivanplex.github.io/HANS_Notice_board/images/store_front_1.jpg" height="400px"/>
+		</td>
+	</tr>
+</table>
 
-### Markdown
+## Feature
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:star: Super affordable mothod to deploy multi-screen digital signage<br />
+:star: Centralized management at any location<br />
+:star: Graphical backend for content management <br />
+:star: Minimal on-location hardware requirement (no PC with robust graphics-card required)<br />
 
-```markdown
-Syntax highlighted code block
+## Hardware
 
-# Header 1
-## Header 2
-### Header 3
+- 4x Raspberry Pi 3 Model B
+- 1x Philips 6700 Series 4k Ultra-slim LED TV running @ 1920x1080
+- 3x Philips 5000 Series Full-HD Ultri-slim LED TV running @ 1920x1080
+- 4x HDMI Cables
+- 4x USB to micro-USB cables
+- 1x 6 USB ports wall AC power adapter
+- 1x USB port wall AC power adapter
+- 4x transparent Raspberry Pi model 3 cases
+- various wall mounting screws docs
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<table style="width:100%">
+  <tr>
+    <th align="center">
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_1.jpg" height="400px"/>
+    </th>
+    <th align="center">
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/wires_2.jpg" height="400px"/>
+    </th> 
+  </tr>
+</table>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Raspberry Pi setup
+https://blog.gordonturner.com/2016/12/29/raspberry-pi-full-screen-browser-raspbian-november-2016/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Software
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivanplex/ivanplex.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Screenshots
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table style="width:100%">
+  <tr>
+    <th align="center">
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_setting.png" height="400px"/>
+    </th>
+    <th align="center">
+    	<image src="https://ivanplex.github.io/HANS_Notice_board/images/web_display.png" height="400px"/>
+    </th> 
+  </tr>
+  <tr>
+    <th align="center">
+    	Setting page for configuring display content
+    </th>
+    <th align="center">
+    	Display on page with content scaling
+    </th> 
+  </tr>
+</table>
